@@ -4,9 +4,7 @@ A case study of a from-scratch website rebuild for Mystic Monk, a New Delhi adve
 
 **Live:** [mysticmonk.xyz](https://mysticmonk.xyz)
 
-<!-- TODO before making public: add a hero screenshot below. A before/after (old broken site vs. this) is
-     strongest if you have an old screenshot. Drop the image into docs/ first so the link isn't broken.
-     ![Mystic Monk homepage](docs/hero.png) -->
+![Mystic Monk homepage](docs/home.webp)
 
 ## Why it was rebuilt
 
@@ -45,10 +43,17 @@ Cutting over from the old host to Cloudflare Pages without dropping email took s
 
 ## Screenshots
 
-<!-- Drop images into docs/ and reference them here. Suggested set: -->
-<!-- ![Homepage — editorial hero and logo animation](docs/home.png) -->
-<!-- ![Resources — segmented portfolio downloads](docs/resources.png) -->
-<!-- ![Portfolio grid — masonry and filters](docs/portfolio.png) -->
+The portfolio grid: a masonry layout with cross-filter-aware counts.
+
+![Portfolio grid](docs/portfolio.webp)
+
+Filter by work type and industry, with counts that update against each other.
+
+![Portfolio filters](docs/filters.webp)
+
+The media kit: segmented, downloadable portfolio decks by industry.
+
+![Media kit and downloads](docs/resources.webp)
 
 ## Honest status
 
