@@ -1,4 +1,4 @@
-# Mystic Monk — rebuilding an agency website after a malware infection
+# Mystic Monk: rebuilding an agency website after a malware infection
 
 A case study of a from-scratch website rebuild for Mystic Monk, a New Delhi advertising and design agency, built with Lovable and Claude Code. The source is private; this is the story and the result.
 
